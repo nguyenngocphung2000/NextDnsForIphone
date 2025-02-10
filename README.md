@@ -61,53 +61,33 @@ Chúc mọi người thành công! #NextDNS #hostsVN
 ### Bước 3: Thêm các domain vào Denylist
 Thêm lần lượt các domain sau vào danh sách từ chối để chặn quảng cáo trên Zalo:
 
+```
 social.zalopay.vn
-
 opentracking.zalopay.vn
-
 video.zalo.me
-
 zinst-stc.zdn.vn
-
 graph.zalo.me
-
 miniappstore.api.zalo.me
-
 zagoo.vn
-
 zalo.cloud
-
 zalo.video
-
 discovery.api.zaloapp.com
-
 stc-zmp.zadn.vn
-
 sentry-mini.zalo.me
-
 broadcast.api.zaloapp.com
-
 oa.zalo.me
-
 fiza.ai
-
 stc-fin.zdn.vn
-
 stc-sp.zadn.vn
-
 res-zalo.zadn.vn
-
 zagoo.zadn.vn
-
 zmdcdn.me
-
 channel-zinstant.api.zaloapp.com
-
 zsp.zaloapp.com
-
 universal-zinstant.api.zaloapp.com
-
 stc-oa.zdn.vn
+
+```
 
 ## Lưu ý
 - Việc thêm các domain này vào denylist sẽ giúp chặn các quảng cáo xuất hiện trong phần "Khám phá" và "Nhật ký" trên Zalo.
