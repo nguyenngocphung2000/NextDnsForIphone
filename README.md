@@ -45,3 +45,49 @@ NextDNS là một dịch vụ DNS thông minh giúp chặn quảng cáo, mã đ�
 - **Tài khoản miễn phí**: 300k truy vấn/tháng, đủ sử dụng cho cá nhân 1-2 thiết bị.
 
 Chúc mọi người thành công! #NextDNS #hostsVN
+
+# Chặn quảng cáo trên Zalo
+
+Để chặn quảng cáo trên Zalo, bạn có thể sử dụng NextDNS để thêm các domain liên quan đến quảng cáo vào danh sách từ chối (denylist). Dưới đây là hướng dẫn chi tiết:
+
+## Các bước thực hiện
+
+### Bước 1: Truy cập NextDNS
+1. Vào [my.nextdns.io](https://my.nextdns.io).
+
+### Bước 2: Vào Denylist
+1. Chọn tab **Denylist**.
+
+### Bước 3: Thêm các domain vào Denylist
+Thêm lần lượt các domain sau vào danh sách từ chối để chặn quảng cáo trên Zalo:
+
+social.zalopay.vn
+opentracking.zalopay.vn
+video.zalo.me
+zinst-stc.zdn.vn
+graph.zalo.me
+miniappstore.api.zalo.me
+zagoo.vn
+zalo.cloud
+zalo.video
+discovery.api.zaloapp.com
+stc-zmp.zadn.vn
+sentry-mini.zalo.me
+broadcast.api.zaloapp.com
+oa.zalo.me
+fiza.ai
+stc-fin.zdn.vn
+stc-sp.zadn.vn
+res-zalo.zadn.vn
+zagoo.zadn.vn
+zmdcdn.me
+channel-zinstant.api.zaloapp.com
+zsp.zaloapp.com
+universal-zinstant.api.zaloapp.com
+stc-oa.zdn.vn
+
+## Lưu ý
+- Việc thêm các domain này vào denylist sẽ giúp chặn các quảng cáo xuất hiện trong phần "Khám phá" và "Nhật ký" trên Zalo.
+- Bạn có thể tùy chỉnh thêm các domain khác nếu cần thiết.
+
+Chúc bạn thành công trong việc loại bỏ quảng cáo khỏi Zalo!
