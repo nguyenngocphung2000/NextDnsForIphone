@@ -1,4 +1,4 @@
-# [Hướng dẫn] Cấu hình nhanh NextDNS để chặn quảng cáo
+# Hướng dẫn cấu hình nhanh NextDNS để chặn quảng cáo
 
 NextDNS là một dịch vụ DNS thông minh giúp chặn quảng cáo, mã độc và các trang lừa đảo. Dưới đây là hướng dẫn cấu hình nhanh NextDNS để bạn có thể sử dụng dịch vụ này một cách hiệu quả.
 
