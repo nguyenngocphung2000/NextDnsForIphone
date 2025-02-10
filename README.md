@@ -31,10 +31,15 @@ NextDNS là một dịch vụ DNS thông minh giúp chặn quảng cáo, mã đ�
 - **Tối ưu tốc độ mạng**:
   - Nếu sử dụng mạng khác bị chậm, vào tab **Setting** và tắt **Anonymized EDNS Client Subnet**.
 
+- **Cài đặt cho phụ huynh**:
+ - Qua tab **Parental Control**
+ - Tại mục **Categories**,thêm P*rn để chặn nội dung người lớn
+ - Bật tính năng **SafeSearch**
+ - Phần **Recreation Time** đặt thời gian cho phép sử dụng
 ### Bước 4: Cài đặt
 1. Trở về tab **Setup**.
 2. Cài đặt theo hướng dẫn ở **Setup Guide**.
-
+3. Nếu iphone thì nhấn vào [Đây](https://apple.nextdns.io/) để tạo cấu hình cài đặt.
 ## Thông tin thêm
 - **Hướng dẫn đầy đủ**: [https://github.com/bigdargon/hostsVN/wiki/NextDNS](https://github.com/bigdargon/hostsVN/wiki/NextDNS)
 - **Tài khoản miễn phí**: 300k truy vấn/tháng, đủ sử dụng cho cá nhân 1-2 thiết bị.
