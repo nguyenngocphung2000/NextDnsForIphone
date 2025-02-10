@@ -32,10 +32,10 @@ NextDNS là một dịch vụ DNS thông minh giúp chặn quảng cáo, mã đ�
   - Nếu sử dụng mạng khác bị chậm, vào tab **Setting** và tắt **Anonymized EDNS Client Subnet**.
 
 - **Cài đặt cho phụ huynh**:
- - Qua tab **Parental Control**
- - Tại mục **Categories**,thêm P*rn để chặn nội dung người lớn
- - Bật tính năng **SafeSearch**
- - Phần **Recreation Time** đặt thời gian cho phép sử dụng
+  - Qua tab **Parental Control**
+  - Tại mục **Categories**,thêm P*rn để chặn nội dung người lớn
+  - Bật tính năng **SafeSearch**
+  - Phần **Recreation Time** đặt thời gian cho phép sử dụng
 ### Bước 4: Cài đặt
 1. Trở về tab **Setup**.
 2. Cài đặt theo hướng dẫn ở **Setup Guide**.
@@ -62,28 +62,51 @@ Chúc mọi người thành công! #NextDNS #hostsVN
 Thêm lần lượt các domain sau vào danh sách từ chối để chặn quảng cáo trên Zalo:
 
 social.zalopay.vn
+
 opentracking.zalopay.vn
+
 video.zalo.me
+
 zinst-stc.zdn.vn
+
 graph.zalo.me
+
 miniappstore.api.zalo.me
+
 zagoo.vn
+
 zalo.cloud
+
 zalo.video
+
 discovery.api.zaloapp.com
+
 stc-zmp.zadn.vn
+
 sentry-mini.zalo.me
+
 broadcast.api.zaloapp.com
+
 oa.zalo.me
+
 fiza.ai
+
 stc-fin.zdn.vn
+
 stc-sp.zadn.vn
+
 res-zalo.zadn.vn
+
 zagoo.zadn.vn
+
 zmdcdn.me
+
 channel-zinstant.api.zaloapp.com
+
 zsp.zaloapp.com
+
 universal-zinstant.api.zaloapp.com
+
 stc-oa.zdn.vn
 
 ## Lưu ý
