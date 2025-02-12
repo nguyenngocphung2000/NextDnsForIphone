@@ -73,7 +73,6 @@ zalo.cloud
 zalo.video
 discovery.api.zaloapp.com
 stc-zmp.zadn.vn
-sentry-mini.zalo.me
 broadcast.api.zaloapp.com
 oa.zalo.me
 fiza.ai
